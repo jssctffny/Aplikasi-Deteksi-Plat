@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/plateTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TNKB: -"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/ownerTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Pemilik: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/jenisTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jenis Kendaraan: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/merkTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Merk / Tipe: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/warnaTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Warna Kendaraan: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/yearTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tahun Buat: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/rangkaTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Rangka: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/mesinTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Mesin: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/silinderTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Isi Silinder: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/bahanbakarTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bahan Bakar: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/stnkTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="STNK Berlaku: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/akhirbayarTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tanggal Akhir Bayar: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/jatuhtempoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tanggal Jatuh Tempo: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/pkbTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PKB: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/dendaTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Denda: -"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/jumlahTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jumlah: -"
+        android:textSize="16sp"/>
+
+<!--    <Button-->
+<!--        android:id="@+id/doneButton"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Selesai"-->
+<!--        android:layout_marginTop="16dp"/>-->
+
+</LinearLayout>
